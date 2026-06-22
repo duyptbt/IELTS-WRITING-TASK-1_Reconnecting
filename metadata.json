@@ -1,0 +1,8 @@
+{
+  "name": "VSTEP Task 1 Writing Assistant_No AI Grading",
+  "description": "An interactive learning companion for VSTEP Writing Task 1, featuring CEFR guideline resources, step-by-step structure helpers, and vocabulary guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
